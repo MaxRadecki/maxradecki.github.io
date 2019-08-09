@@ -95,3 +95,11 @@ h1 {
   font-size: 7em;
 }
 
+#home {
+  margin-left: 50px;
+}
+
+#imgFace {
+  width: 225px;
+  height: 235px;
+}
